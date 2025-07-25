@@ -1,5 +1,3 @@
----
-
 ### 🌌 `VISION.md` – Vision & Manifeste stratégique
 
 ```markdown
